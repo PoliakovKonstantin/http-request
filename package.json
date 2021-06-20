@@ -1,0 +1,5 @@
+{
+    "scripts": 
+        {"start": "node ./req/req.js",
+        "dev": "node -r dotenv/config ./req/req.js"}
+}
